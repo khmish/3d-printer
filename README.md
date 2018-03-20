@@ -4,7 +4,7 @@ hardwares requirements:
 * M6 bolts 12mm/16mm and nuts 50 pieces 10euro/50sar
 * M5 bolts 12mm/16mm and nuts 50 pieces 10euro/50sar
 * screw driver, alen keys, pliers and soldering irion 
-* gt2 belt 5 meters +2 bulleys 20teeth
+* gt2 belt 5 meters +2 bulleys 20teeth + 2 idler bulleys
 * 12 linear bearings 8mm
 * 6 linear rods 8mm
 
